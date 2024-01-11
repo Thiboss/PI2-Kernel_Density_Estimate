@@ -1,0 +1,3 @@
+{
+  "python.analysis.extraPaths": ["./kernel_density_estimate"]
+}
