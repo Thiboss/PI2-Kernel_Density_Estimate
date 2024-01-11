@@ -16,7 +16,5 @@ print_df(df_metrics)
 
 df_clean = clear_df(df_returns)
 
-returns = df_clean['LVMH'].iloc[:, 1].tolist()
 print("hello")
-print( returns)
 
